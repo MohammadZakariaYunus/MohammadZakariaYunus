@@ -2,9 +2,13 @@
 
 I am Zakaria Yunus and I do content on Design and Developing. I realy enjoy learning and frameworks like React and React Native. I also enjoy working closely with designs to faithfully translate them right down to the last pixel. Daily, I use modern React technologies that bring the creative process to life just as designer intended them to be.
 
+<p align="center">
+<img align="center" width="100%" height="400" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="320" align="right">  
+</p>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mohammadzakariayunus&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadzakariayunus&layout=compact" />
+
 
 ## Skils
 
